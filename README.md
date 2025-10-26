@@ -1,20 +1,26 @@
 Nguyễn Thị Hoài Hà - 22IT073
 
-Flutter Todo App
+**Flutter Todo App**
 
-📖 Overview
+**Overview**
 
-A simple yet powerful **Todo App** built with **Flutter** and **Dart**, designed for learning and practicing local state management, responsive UI, and dark mode support.
+   A simple yet powerful **Todo App** built with **Flutter** and **Dart**, designed for learning and practicing local state management, responsive UI, and dark mode support.
 
-Features
+**Features**
 
-    **Add / Delete / Complete Tasks**
-    **Edit Existing Tasks** 
-    **Dark Mode Toggle** 
-    **Responsive UI** (Mobile, Tablet, Web) 
-    **Local State Management** (using `setState`)
-    **Input Validation** – prevents adding empty tasks
-    **Enhanced UI/UX:**
+ **Add / Delete / Complete Tasks**
+ 
+ **Edit Existing Tasks** 
+ 
+ **Dark Mode Toggle** 
+ 
+ **Responsive UI** (Mobile, Tablet, Web) 
+ 
+ **Local State Management** (using `setState`)
+ 
+ **Input Validation** – prevents adding empty tasks
+ 
+ **Enhanced UI/UX:**
 
 * Checkboxes replace radio buttons
 * Completed tasks show strikethrough or faded color
@@ -33,29 +39,29 @@ Tech Stack
 
   * `StatefulWidget`, `ListView.builder()`, `Checkbox`, `Card`, `TextField`, `IconButton`, `Scaffold`, `AppBar`, `ThemeMode`
 
-Installation & Run
+**Installation & Run**
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/hanth0509/todo_app.git
-cd todo_app
+   git clone https://github.com/hanth0509/todo_app.git
+   cd todo_app
 
 2️⃣ Get dependencies:
 
-flutter pub get
+   flutter pub get
 
 
 3️⃣ Run the app:
 
-flutter run
+   flutter run
 
 
-Dark Mode
+**Dark Mode**
 
-You can switch between "Light" and "Dark themes" from the app bar.
-The app automatically updates all task cards, icons, and text colors accordingly.
+   You can switch between "Light" and "Dark themes" from the app bar.
+   The app automatically updates all task cards, icons, and text colors accordingly.
 
-Screenshots
+**Screenshots**
     \assets
 
 
